@@ -1,4 +1,4 @@
-# framework (laravel-8.49.2, Angularjs, Angular
+# framework (laravel-8.49.2, Angularjs, Angular)
 # full stack ( Javascript, Ajax, Json, Jquery, Node JS)
 # Style ( Javascript, CSS, Bootstrap, Kendo Ui )
 
